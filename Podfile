@@ -7,7 +7,9 @@ target 'messagingApp' do
 pod 'Firebase/Core'	
 pod 'Firebase/Database'	
 pod 'Firebase/Auth'	
-pod 'Firebase/Messaging'	
+pod 'Firebase/Messaging'
+pod 'MessageKit'
+	
   # Pods for messagingApp
 
 end
